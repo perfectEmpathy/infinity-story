@@ -1,10 +1,15 @@
-Картер-прилетел/Библиотекарь.
-Грехем-станция/Медик
-Елена-станция/Химик.
-Скайлар-станция/Химик
-Айвен-зачистка
-Маркус-зачистка
-Джуллиан Картер-прилетел./Ученый
-Мюррей-зачистка/говнюк
-Флеши-прилетел/Медик
-Макс Кот-станция/ Бармен.
+РќР° СЃС‚Р°РЅС†РёРё СЃ РЅР°С‡Р°Р»Р° СЃРјРµРЅС‹:
+Graham Hynes - Medical Doctor
+Elena Denitz - Chemist
+Skylar White - Chemist
+Max Kot - Bartender
+
+РџСЂРёР»РµС‚РµР»Рё:
+Carter Hynes - Libranian
+Flashie Thomas - Medical Doctor
+
+Р—Р°С‡РёСЃС‚РєР°:
+Marcus Fors
+Harry Murray - Asshole
+Iven Fors
+
